@@ -12,7 +12,7 @@ export const userRouter = router({
     )
     .query(({ input }) => {
       return {
-        greeting: `helloo ${input?.name ?? "world!!"}`,
+        greeting: `hello ${input?.name ?? "world!!"}`,
       };
     }),
 });

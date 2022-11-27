@@ -677,14 +677,14 @@
     defer-to-connect "^2.0.0"
 
 "@trpc/client@^10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.2.0.tgz#310752768c7d2a1129a91689b233a62bcf87762e"
-  integrity sha512-Mehf6euqMzAak+Umay1LKol9nC716yBjHNqrF6blWY/n2hwSICrLXQwveNaHK7qjKXJ86b4aDW39KR02WCQP4A==
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.3.0.tgz#9296cc7db7e1a929b4bb74ca961333d249f2ca38"
+  integrity sha512-plZ/uNGVZ0tsMwJKjVLUzT7B1kGxa+TpLxZ9i9OfxKUpPnMtz0MSg8Qx2oHqTqbGgcmmekyusmTfLyNzym2ZlA==
 
 "@trpc/server@^10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.2.0.tgz#7716329ab9de742c0d604bc48759e4d1f1434225"
-  integrity sha512-WGOA2bk6JOnOywUu1gkAgwqnxZ5g+vNkL9EpCGLgKYwwMcjAwgNRgYzLPsDsR1XL48wmdYOzfWzJ0G575+g/jA==
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.3.0.tgz#58fed14aec52f7124dd4daaea335306b049feefb"
+  integrity sha512-PdSSmO9vBeWKdVhr3WHUPAPscOLLY+M6G7CL1AqjNL1grTOiB0bN1bvb4/D9qAdgwWB8qZOLb7WeuAudyD4FpQ==
 
 "@trysound/sax@0.2.0":
   version "0.2.0"
@@ -5128,9 +5128,9 @@ ufo@^1.0.0:
   integrity sha512-DRty0ZBNlJ2R59y4mEupJRKLbkLQsc4qtxjpQv78AwEDuBkaUogMc2LkeqW3HddFlw6NwnXYfdThEZOiNgkmmQ==
 
 ultrahtml@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/ultrahtml/-/ultrahtml-1.0.1.tgz#ed7fd8c1046ae36d176e320772132dd48f73a864"
-  integrity sha512-VDt8gmBR5DPrsfdLS4GQqncojcsLTKMW6iHKVN9l6TohU5bdn/OPv8AmV/0/PBR7Z3qBmMpJHqxRdQFaFA8B9g==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ultrahtml/-/ultrahtml-1.0.3.tgz#6b7510b7bc3665ec4ef25c48b46c2a7eac04fcbc"
+  integrity sha512-QpTl78vv2o004UPD6b+Vjfoh2b33PV0LS6UHoI1u3wQ2xVRJAkW8Ip4QBiL6JTlMMtIWOXqli98WnsWx6IFFRg==
 
 unctx@^2.1.0:
   version "2.1.0"
